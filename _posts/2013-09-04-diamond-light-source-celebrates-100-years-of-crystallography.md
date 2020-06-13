@@ -10,16 +10,8 @@ status: publish
 categories: []
 tags: []
 meta:
-  _edit_last: '1'
-  post_slider_check_key: '0'
-  _thumbnail_id: '11'
-  tc-thumb-fld: a:2:{s:9:"_thumb_id";s:2:"11";s:11:"_thumb_type";s:5:"thumb";}
-author:
-  login: admin
-  email: richardiancooper@gmeil.com
-  display_name: admin
-  first_name: ''
-  last_name: ''
+author:  admin
 permalink: "/diamond-light-source-celebrates-100-years-of-crystallography/"
 ---
+
 <p><a href="http://learn.crystallography.org.uk/wp-content/uploads/2013/09/Insulincrystals.jpg"><img class="alignright size-medium wp-image-11" alt="Insulincrystals" src="{{ site.baseurl }}/assets/Insulincrystals-300x210.jpg" width="300" height="210" /></a>That scientific principle of diffraction of X-rays by crytals, discovered in 1913, by father and son William and Lawrence Bragg has made possible much of the materials research that today takes place at Diamond Light Source. To mark the occasion, <a href="http://www.oxfordmail.co.uk/news/yourtown/didcot/10652935.Diamond_Light_Source_has_a_beaming_100th_birthday/">Dr John Jenkin, the biographer of the British scientific duo, gave a lecture, while Professor Thomas Sorensen, principal beamline scientist at the science facility, spoke about the importance of X-ray crystallography</a> to modern-day scientists.</p>
