@@ -4,5 +4,5 @@ remote_theme: macrod68/jekyll-materialize-starter-template
 title: What's in a crystal?
 
 header_pages:
-  - learn-crystallography
+  - learn-crystallography.html
   
