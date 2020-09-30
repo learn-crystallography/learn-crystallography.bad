@@ -40,15 +40,9 @@ permalink: "/learn-crystallography/nobel-prizes/"
 <strong>Max von Laue</strong>
 </div>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<br clear="all" />
+<br clear="both" />
+
 <p>Other significant Nobel Prizes were awarded to Dorothy Hodgkin for the determination of biological molecules including vitamin B12 (Chemistry 1964), Watson, Crick and Wilkins for determining the structure of DNA (Physiology or Medicine 1962) and Curl, Kroto and Smalley who discovered the fullerene form of carbon (also known as bucky balls) (Chemistry 1996).</p>
 <p>2013 Chemistry<br />
 M. Karplus, M. Levitt and A. Warshel<br />
