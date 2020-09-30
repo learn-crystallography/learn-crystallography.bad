@@ -24,8 +24,9 @@ permalink: "/learn-crystallography/nobel-prizes/"
 ---
 <p>There have been a significant number of Nobel prizes awarded where crystallography has been one of the key aspects of the research. These have been spread across Chemistry and Physics (but with many significant aspects also related to Biological applications) and Physiology or Medicine.</p>
 <p>This started in 1901 with the Nobel Prize for Physics awarded to Röntgen for his discovery of X-rays. This was followed up by Max von Laue (discovery of diffraction of X-rays by crystals) and the two Braggs who demonstrated the first determination of crystal structures.</p>
+
 <div style="width: 23%; padding: 0px 10pt 0px 0px; float: left; text-align: center;" markdown="1">
-![Wilhelm Röntgen](/assets/Rontgen.jpg)
+![Wilhelm Röntgen](/assets/Rontgen.jpg) 
 <strong>Wilhelm Röntgen</strong>
 </div>
 
