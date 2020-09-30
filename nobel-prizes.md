@@ -34,9 +34,9 @@ permalink: "/learn-crystallography/nobel-prizes/"
 <strong>William and Lawrence Bragg</strong>
 </div>
 
-<div style="width: 23%; padding: 0px 10pt 0px 0px; float: right; text-align: center;">
+<div style="width: 23%; padding: 0px 10pt 0px 0px; float: right; text-align: center;" markdown="1">
 ![Max von Laue](/assets/max-von-laue.jpg)
-<strong>Max von Laue<strong></strong>
+<strong>Max von Laue</strong>
 </div>
 
 <p>&nbsp;</p>
