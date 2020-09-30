@@ -26,7 +26,7 @@ permalink: "/learn-crystallography/nobel-prizes/"
 <p>This started in 1901 with the Nobel Prize for Physics awarded to Röntgen for his discovery of X-rays. This was followed up by Max von Laue (discovery of diffraction of X-rays by crystals) and the two Braggs who demonstrated the first determination of crystal structures.</p>
 <div style="width: 23%; padding: 0px 10pt 0px 0px; float: left; text-align: center;"><strong><a href="http://learn.crystallography.org.uk/wp-content/uploads/2013/11/Rontgon.jpg"><img class="aligncenter size-medium wp-image-438" alt="Rontgon" src="{{ site.baseurl }}/assets/Rontgon.jpg" width="189" height="266" /></a>Wilhelm Röntgen</strong></div>
 <div style="width: 45%; padding: 0px 10pt 0px 0px; float: right; text-align: center;">
-![The Two Braggs](/assets/twobraggs.png)
+{{ ![The Two Braggs](/assets/twobraggs.png) }}
 <strong>William and Lawrence Bragg</strong></div>
 <div style="width: 23%; padding: 0px 10pt 0px 0px; float: right; text-align: center;"><strong><strong><a href="http://learn.crystallography.org.uk/wp-content/uploads/2013/11/max-von-laue.jpg"><img class="aligncenter size-medium wp-image-437" alt="max-von-laue" src="{{ site.baseurl }}/assets/max-von-laue-211x300.jpg" width="211" height="300" /></a>Max von Laue<strong></strong></strong></strong></div>
 <p>&nbsp;</p>
