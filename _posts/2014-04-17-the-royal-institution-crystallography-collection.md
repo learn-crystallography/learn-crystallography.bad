@@ -11,7 +11,6 @@ categories: []
 tags: []
 author: Anna Warren
 permalink: "/the-royal-institution-crystallography-collection/"
-youtubeId: gBxZVF3s4cU
 ---
 
 <p>The Royal Institution, in collaboration with STFC, have a number of crystallography related videos on their YouTube channel.</p>
@@ -20,5 +19,4 @@ youtubeId: gBxZVF3s4cU
 
 <p>There are a number of great videos on their <a href="https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw">channel</a>, so check them out...</p>
 
-
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include video id="gBxZVF3s4cU" provider="youtube" %}
