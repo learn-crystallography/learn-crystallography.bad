@@ -11,7 +11,6 @@ categories: []
 tags: []
 meta:
   _edit_last: '3'
-  _wp_page_template: default
   post_slider_check_key: '0'
   tc-thumb-fld: a:2:{s:9:"_thumb_id";i:429;s:11:"_thumb_type";s:10:"attachment";}
 author:
