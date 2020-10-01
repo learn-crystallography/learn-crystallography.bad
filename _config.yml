@@ -6,3 +6,5 @@ title: What's in a crystal?
 header_pages:
   - learn-crystallography.html
   
+
+theme: jekyll-theme-minimal
