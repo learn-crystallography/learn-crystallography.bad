@@ -11,10 +11,9 @@ categories: []
 tags: []
 author: Sam Callear
 permalink: "/the-braggs-legacy/"
-youtubeId: a-jE7BM902Q
 ---
 
 <p>Learn all about crystallography from a movie made by Diamond Light Source to celebrate 100 years of crystallography!</p>
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include video id="a-jE7BM902Q" provider="youtube" %}
 
