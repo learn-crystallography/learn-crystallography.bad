@@ -3,7 +3,15 @@ remote_theme: mmistakes/minimal-mistakes@4.20.2
 # theme: minimal-mistakes-jekyll
 title: What's in a crystal?
 
-header_pages:
-  - learn-crystallography.html
-  
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
